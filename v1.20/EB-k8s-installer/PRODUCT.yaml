@@ -5,4 +5,4 @@ website_url: 产品信息URL
 documentation_url: 产品文档URL
 product_logo_url: 
 type: installer
-description: EB-k8s-installer is an customized Online  Kubernetes cluster installer 
+description: EB-k8s-installer is an customized Online  Kubernetes cluster installer with GUI
