@@ -1,0 +1,8 @@
+vendor: EB
+name: EB-k8s-installer
+version: v1.0
+website_url: 产品信息URL 
+documentation_url: http://harmonycloud.cn/products/rongqiyun/
+product_logo_url: 
+type: installer
+description: 
